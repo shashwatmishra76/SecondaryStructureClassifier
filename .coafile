@@ -1,0 +1,4 @@
+[cli]
+bears = SpaceConsistencyBear
+files = 3classClassifier.py
+use_spaces = True
